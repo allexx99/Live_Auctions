@@ -1,5 +1,4 @@
 # Live_Auctions
-Live Auctions: A secure platform to list, browse, and bid seamlessly
 
 Welcome to the Live Auctions Application repository! This project showcases a dynamic web platform designed for users to interact with auction listings efficiently and intuitively.
 
